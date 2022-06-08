@@ -180,7 +180,7 @@ input[type="email"]{
 input[type="submit"]{
   background-color: var(--roxo);
   color: white;
-  border-radius: 5px;
+  border-radius: 6px;
   border: none;
   cursor: pointer;
   padding: 10px 20px;
